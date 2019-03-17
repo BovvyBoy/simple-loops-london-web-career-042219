@@ -32,7 +32,8 @@ end
 
 def for
   greeting = "Welcome to Flatiron School\'s Web Development Course!"
-  for greeting in 
+  for greeting in 1..7
+  
   for 
 end
 
