@@ -31,7 +31,9 @@ def until
 end
 
 def for
-  
+  greeting = "Welcome to Flatiron School\'s Web Development Course!"
+  for greet in 
+  for 
 end
 
 describe 'Loops' do
