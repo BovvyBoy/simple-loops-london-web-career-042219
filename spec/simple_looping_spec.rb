@@ -20,10 +20,10 @@ end
 def while
 counter = 1
 while counter <= 7
-puts "The counter is at: #{counter}"
-5.	break if counter == 3
-6.	counter = counter + 1
-7.	end
+puts "Welcome to Flatiron School\'s Web Development Course!"
+break if counter == 7
+counter = counter + 1
+end
 
 end
 
