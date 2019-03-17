@@ -1,7 +1,7 @@
 require_relative './spec_helper'
 
 def loop
-  
+  7.times 
   puts "Welcome to Flatiron School\'s Web Development Course!"
 end
 
