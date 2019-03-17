@@ -18,13 +18,12 @@ def times
 end
 
 def while
-counter = 1
-while counter <= 7
-puts "Welcome to Flatiron School\'s Web Development Course!"
-break if counter == 7
-counter = counter + 1
-end
-
+  counter = 1
+  while counter <= 7
+  puts "Welcome to Flatiron School\'s Web Development Course!"
+  break if counter == 7
+  counter = counter + 1
+  end
 end
 
 def until
