@@ -1,5 +1,25 @@
 require_relative './spec_helper'
 
+def loop
+  
+end
+
+def times
+
+end
+
+def while
+
+end
+
+def until
+  
+end
+
+def for
+  
+end
+
 describe 'Loops' do
   before(:each) do
     @looping_string = "Welcome to Flatiron School's Web Development Course!\nWelcome to Flatiron School's Web Development Course!\nWelcome to Flatiron School's Web Development Course!\nWelcome to Flatiron School's Web Development Course!\nWelcome to Flatiron School's Web Development Course!\nWelcome to Flatiron School's Web Development Course!\nWelcome to Flatiron School's Web Development Course!\n"
