@@ -2,6 +2,7 @@ require_relative './spec_helper'
 
 def loop
   
+  puts "Welcome to Flatiron School\'s Web Development Course!"
 end
 
 def times
